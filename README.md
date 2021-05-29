@@ -6,7 +6,7 @@ This is the database structure.(dbname:test)<br>
 	- category[table]
 		- categoryValue
 		- categoryName
-	- sub_category[tabel]
+	- sub_category[table]
 		- Main_cate_val
 		- subCateName
 		- subCate Value
